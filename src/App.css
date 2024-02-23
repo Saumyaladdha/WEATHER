@@ -1,0 +1,31 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 20px 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.App-header h1 {
+  font-size: 42px;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Apply the same color as the App-header to the form */
+.weather-form {
+  margin-top: 20px;
+  background-color: #2c3e50; /* Same color as the App-header */
+  color: #fff; /* Text color */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
